@@ -1,4 +1,4 @@
-#código 1 rafgds
+#código 1 rafagds
 
 print ("------------Cadastro de Funcionário------------")
 
